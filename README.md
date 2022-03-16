@@ -1,5 +1,5 @@
 # Testing
 =========
-1. A new line
-2. A second line
-3. Testing line
+1. _A new line_
+2. _A second line_
+3. _Testing line_
